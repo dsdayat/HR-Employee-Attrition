@@ -6,8 +6,7 @@ attracting and retaining top talent are The two of key to success in any organiz
 # Objectivies Project
 
 - To Predict The Attrition of Valuable Employees
-- To know the categories ofEmployee who in charge on Attrition
-- To Know what is the problem which give attrition
+- To know the categories of Employee who in charge on Attrition
 - To create recomendations for the next move to prevent high Attrition
 
 # The Data 
